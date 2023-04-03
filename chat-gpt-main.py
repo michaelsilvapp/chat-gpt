@@ -3,7 +3,7 @@ import os
 
 
 # Define a chave da API do OpenAI
-os.environ["k"] = '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'
+os.environ["k"] = 'KEY'
 
 api_key = os.environ.get("k")
 
